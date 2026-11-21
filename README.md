@@ -11,9 +11,9 @@
 &nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=1500&color=D98A36&vCenter=true&width=420&height=32&lines=%5E.%5E+IBRUH.EXE;//+CODE+%26+COMICS" alt="Title" />
 
 <ul>
-  <li><b>𝙲𝙻𝙰𝚂𝚂 :</b> 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟 & 𝙲𝚘𝚖𝚒𝚌 𝚂𝚌𝚛𝚒𝚙𝚝𝚠𝚛𝚒𝚝𝚎𝚛</li>
-  <li>𝚃𝚊𝚝𝚜𝚞𝚔𝚒 𝙵𝚞𝚓𝚒𝚖𝚘𝚝𝚘 & 𝙹𝚞𝚗𝚓𝚒 𝙸𝚝𝚘 𝙳𝚒𝚜𝚌𝚒𝚙𝚕𝚎</li>
-  <li>𝙲𝚘𝚖𝚒𝚌, 𝙻𝚒𝚝𝚎𝚛𝚊𝚝𝚞𝚛𝚎 & 𝙲𝚒𝚗𝚎𝚖𝚊</li>
+  <li>&nbsp;<b>𝙲𝙻𝙰𝚂𝚂 :</b> 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟 & 𝙲𝚘𝚖𝚒𝚌 𝚂𝚌𝚛𝚒𝚙𝚝𝚠𝚛𝚒𝚝𝚎𝚛</li>
+  <li>&nbsp;𝚃𝚊𝚝𝚜𝚞𝚔𝚒 𝙵𝚞𝚓𝚒𝚖𝚘𝚝𝚘 & 𝙹𝚞𝚗𝚓𝚒 𝙸𝚝𝚘 𝙳𝚒𝚜𝚌𝚒𝚙𝚕𝚎</li>
+  <li>&nbsp;𝙲𝚘𝚖𝚒𝚌, 𝙻𝚒𝚝𝚎𝚛𝚊𝚝𝚞𝚛𝚎 & 𝙲𝚒𝚗𝚎𝚖𝚊</li>
 </ul>
 
 &nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=1200&color=B83333&vCenter=true&width=420&height=28&lines=INSERT+COIN+TO+COLLABORATE...;BUILDING+LOGIC+WITH+ARTISTIC+SOUL" alt="Sub" />
