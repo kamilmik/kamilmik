@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/lastsupperremake.jpg" width="100%" alt="lastsupperremake.png" />
+  <img src="./assets/lastsupperremake.png" width="100%" alt="lastsupperremake.png" />
 </div>
 
 <br/>
@@ -29,19 +29,9 @@
 ---
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilmik&layout=compact&langs_count=5&bg_color=121417&title_color=D98A36&text_color=E5E5E5&border_color=2E5E63"/>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_LU&background=121417&border=2E5E63&ring=8B1E1E&fire=D98A36&currStreakLabel=D98A36&sideLabels=E5E5E5&dates=888888" width="480" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1500&color=8B1E1E&center=true&vCenter=true&width=500&lines=INSERT+COIN+TO+COLLABORATE...;PRESS+START+TO+EXPLORE+REPOS" alt="Footer" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilmik&layout=compact&langs_count=5&bg_color=121417&title_color=D98A36&text_color=E5E5E5&border_color=2E5E63" />
+  <img height="145" src="https://github-readme-streak-stats.herokuapp.com/?user=kamilmik&background=121417&border=2E5E63&ring=8B1E1E&fire=D98A36&currStreakNum=E5E5E5&sideNums=E5E5E5&currStreakLabel=D98A36&sideLabels=E5E5E5&dates=888888" />
+  <img height="145" src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1500&color=8B1E1E&center=true&vCenter=true&width=260&height=145&lines=INSERT+COIN+TO+COLLABORATE...;PRESS+START+TO+EXPLORE+REPOS" />
 </p>
 
 <div align="center">
