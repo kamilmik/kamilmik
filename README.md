@@ -8,7 +8,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&pause=1500&color=D98A36&vCenter=true&width=420&height=32&lines=🐱+IBRUH.EXE;//+CODE+%26+COMICS" alt="Title" />
+&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=1500&color=D98A36&vCenter=true&width=420&height=32&lines=%5E.%5E+IBRUH.EXE;//+CODE+%26+COMICS" alt="Title" />
 
 <ul>
   <li><b>𝙲𝙻𝙰𝚂𝚂 :</b> 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟 & 𝙲𝚘𝚖𝚒𝚌 𝚂𝚌𝚛𝚒𝚙𝚝𝚠𝚛𝚒𝚝𝚎𝚛</li>
