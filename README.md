@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/lastsupperremake.png" width="100%" alt="lastsupperremake.png" />
+  <img src="./assets/lastsupperremakebanner.png" width="100%" alt="lastsupper" />
 </div>
 
 <br/>
