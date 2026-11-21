@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/lastsupperremake.png" width="50%" alt="lastsupperremake.png" />
+  <img src="./assets/lastsupperremake.png" width="100%" alt="lastsupperremake.png" />
 </div>
 
 <br/>
@@ -14,6 +14,7 @@
   <li> &nbsp;&nbsp;  <b>CLASS:</b> Software Dev & Comic Scriptwriter</li>
   <li> &nbsp;&nbsp;  Tatsuki Fujimoto & Junji Ito Disciple</li>
   <li> &nbsp;&nbsp;  Comic, Literature & Cinema</li>
+  <li><img height="145" src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1500&color=8B1E1E&center=true&vCenter=true&width=260&height=145&lines=INSERT+COIN+TO+COLLABORATE...;PRESS+START+TO+EXPLORE+REPOS" /></li>
 </ul>
 
 <p>
@@ -29,9 +30,8 @@
 ---
 
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilmik&layout=compact&langs_count=5&bg_color=121417&title_color=D98A36&text_color=E5E5E5&border_color=2E5E63" />
-  <img height="145" src="https://github-readme-streak-stats.herokuapp.com/?user=kamilmik&background=121417&border=2E5E63&ring=8B1E1E&fire=D98A36&currStreakNum=E5E5E5&sideNums=E5E5E5&currStreakLabel=D98A36&sideLabels=E5E5E5&dates=888888" />
-  <img height="145" src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1500&color=8B1E1E&center=true&vCenter=true&width=260&height=145&lines=INSERT+COIN+TO+COLLABORATE...;PRESS+START+TO+EXPLORE+REPOS" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilmik&layout=compact&langs_count=5&bg_color=121417&title_color=D98A36&text_color=E5E5E5&border_color=2E5E63" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=kamilmik&background=121417&border=2E5E63&ring=8B1E1E&fire=D98A36&currStreakNum=E5E5E5&sideNums=E5E5E5&currStreakLabel=D98A36&sideLabels=E5E5E5&dates=888888" />
 </p>
 
 ---
@@ -40,5 +40,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kamilmik/kamilmik/output/pacman-contribution-graph-dark.svg" width="100%" alt="Contribution Animation" />
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-pixel.gif" width="120" alt="Pixel Cat" />
 </div>
