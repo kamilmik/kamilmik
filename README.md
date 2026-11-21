@@ -8,14 +8,15 @@
 
 <br/>
 
-### &nbsp;&nbsp; 😺 IBRUH.EXE
+&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1500&color=D98A36&vCenter=true&width=420&height=30&lines=🐱+IBRUH.EXE;SYSTEM+ONLINE...;ARCHIVE+%2F%2F+GALLERY" alt="Title" />
 
 <ul>
-  <li> &nbsp;&nbsp;  <b>CLASS:</b> Software Dev & Comic Scriptwriter</li>
-  <li> &nbsp;&nbsp;  Tatsuki Fujimoto & Junji Ito Disciple</li>
-  <li> &nbsp;&nbsp;  Comic, Literature & Cinema</li>
-  <li><img height="145" src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1500&color=8B1E1E&center=true&vCenter=true&width=260&height=145&lines=INSERT+COIN+TO+COLLABORATE...;PRESS+START+TO+EXPLORE+REPOS" /></li>
+  <li><b>𝙲𝙻𝙰𝚂𝚂 :</b> 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟 & 𝙲𝚘𝚖𝚒𝚌 𝚂𝚌𝚛𝚒𝚙𝚝𝚠𝚛𝚒𝚝𝚎𝚛</li>
+  <li>𝚃𝚊𝚝𝚜𝚞𝚔𝚒 𝙵𝚞𝚓𝚒𝚖𝚘𝚝𝚘 & 𝙹𝚞𝚗𝚓𝚒 𝙸𝚝𝚘 𝙳𝚒𝚜𝚌𝚒𝚙𝚕𝚎</li>
+  <li>𝙲𝚘𝚖𝚒𝚌, 𝙻𝚒𝚝𝚎𝚛𝚊𝚝𝚞𝚛𝚎 & 𝙲𝚒𝚗𝚎𝚖𝚊</li>
 </ul>
+
+&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&pause=1200&color=B83333&vCenter=true&width=420&height=28&lines=INSERT+COIN+TO+COLLABORATE...;BUILDING+LOGIC+WITH+ARTISTIC+SOUL" alt="Sub" />
 
 <p>
   &nbsp;&nbsp;&nbsp;
