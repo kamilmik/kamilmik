@@ -31,8 +31,8 @@
 <h3 align="center">📊 SYSTEM_STATS // ARCADE_MODE</h3>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&bg_color=121417&title_color=D98A36&text_color=E5E5E5&icon_color=8B1E1E&border_color=2E5E63&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LU&layout=compact&langs_count=5&bg_color=121417&title_color=D98A36&text_color=E5E5E5&border_color=2E5E63"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kamilmik&show_icons=true&bg_color=121417&title_color=D98A36&text_color=E5E5E5&icon_color=8B1E1E&border_color=2E5E63&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilmik&layout=compact&langs_count=5&bg_color=121417&title_color=D98A36&text_color=E5E5E5&border_color=2E5E63"/>
 </p>
 
 <br/>
