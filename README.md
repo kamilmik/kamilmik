@@ -28,10 +28,7 @@
 
 ---
 
-<h3 align="center">📊 SYSTEM_STATS // ARCADE_MODE</h3>
-
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kamilmik&show_icons=true&bg_color=121417&title_color=D98A36&text_color=E5E5E5&icon_color=8B1E1E&border_color=2E5E63&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilmik&layout=compact&langs_count=5&bg_color=121417&title_color=D98A36&text_color=E5E5E5&border_color=2E5E63"/>
 </p>
 
@@ -48,7 +45,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME_LU&background=121417&border=2E5E63&ring=8B1E1E&fire=D98A36&currStreakNum=E5E5E5&sideNums=E5E5E5&currStreakLabel=D98A36&sideLabels=E5E5E5&dates=888888" width="480" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamilmik&background=121417&border=2E5E63&ring=8B1E1E&fire=D98A36&currStreakNum=E5E5E5&sideNums=E5E5E5&currStreakLabel=D98A36&sideLabels=E5E5E5&dates=888888" width="480" />
 </div>
 
 ---
@@ -56,5 +53,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GANTI_USERNAME_LU/GANTI_USERNAME_LU/output/pacman-contribution-graph-dark.svg" width="100%" alt="Contribution Animation" />
+  <img src="https://raw.githubusercontent.com/kamilmik/kamilmik/output/pacman-contribution-graph-dark.svg" width="100%" alt="Contribution Animation" />
 </div>
